@@ -1,22 +1,4 @@
 ---
-title: Technical guide to the Cortana Intelligence Solution Template for predictive maintenance in aerospace and other businesses | Microsoft Docs
-description: A technical guide to the Solution Template with Microsoft Cortana Intelligence for predictive maintenance in aerospace, utilities, and transportation.
-services: cortana-analytics
-documentationcenter: ''
-author: fboylu
-manager: jhubbard
-editor: cgronlun
-
-ms.assetid: 2c4d2147-0f05-4705-8748-9527c2c1f033
-ms.service: cortana-analytics
-ms.workload: data-services
-ms.tgt_pltfrm: na
-ms.devlang: na
-ms.topic: article
-ms.date: 12/07/2016
-ms.author: fboylu
-
----
 # Technical guide to the Cortana Intelligence Solution Template for predictive maintenance in aerospace and other businesses
 ## **Acknowledgements**
 This article is authored by data scientists Yan Zhang, Gauher Shaheen, Fidan Boylu Uz and software engineer Dan Grecoe at Microsoft.
